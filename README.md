@@ -3,6 +3,15 @@
 ## Boss description (Descrição do chefão)
 
 ### Specifications (Especificações)
+  * Difficulty (Dificuldade): Nível Slime
+  * Roadmap (Trilha): Front-end estático
+  * Topics covered (Assuntos abordados): 
+    * Primeiro website
+    * Sintaxe HTML
+    * Tags básicas
+    * Sintaxe CSS
+    * Seletores básicos
+    * Formatação com CSS (cores, fontes, etc)
 
 ### Report (Relato)
 

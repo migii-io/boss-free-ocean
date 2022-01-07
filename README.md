@@ -1,27 +1,27 @@
-# Boss: Hello, Trojan!
+# Boss: FreeOcean
 
 ## Boss description (Descrição do chefão)
 
 ### Specifications (Especificações)
-  * Difficulty (Dificuldade): Nível Slime
-  * Roadmap (Trilha): Front-end estático
+  * Difficulty (Dificuldade): Nível Spider Queen
+  * Roadmap (Trilha): Frameworks Front-end
   * Topics covered (Assuntos abordados): 
-    * Primeiro website
-    * Sintaxe HTML
-    * Tags básicas
-    * Sintaxe CSS
-    * Seletores básicos
-    * Formatação com CSS (cores, fontes, etc)
+    * Por quê React?
+    * Ferramentas para buildar apps Front-end
+    * Configuração inicial do React
+    * JSX vs HTML
+    * Componentes
+    * Props
 
 ### Report (Relato)
 
-Alguém andou baixando séries de sites russos e contaminou o computador com um [trojan](https://pt.wikipedia.org/wiki/Cavalo_de_troia_(computação)) 🤡.
+Nossa equipe <del>viu um vídeo de 10 minutos no Youtube</del> estudou sobre <a href="https://en.wikipedia.org/wiki/Non-fungible_token">NFTs</a> e percebemos que um <a href="https://opensea.io">marketplace de NFT</a> famoso possui algumas falhas que podemos explorar.
 
-Talvez com uma [engenharia reversa](https://pt.wikipedia.org/wiki/Engenharia_reversa) podemos descobrir mais sobre ele...
+Sua missão é criar um <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> similar ao site famoso para testarmos a nossa hipótese.
 
-Crie uma cópia da página abaixo para entendermos melhor o Trojan!
+[Versão interativa](https://v4qe9.csb.app/)
 
-![layout do exercício](./design/final-layout.png)
+![layout do exercício](./design/final-layout.jpeg)
 
 ## Tips (Dicas)
 [Guia de estilos com cores, fontes e etc](./design/style-guide.md)
@@ -31,9 +31,9 @@ Crie uma cópia da página abaixo para entendermos melhor o Trojan!
     Secrets (Segredos) (não veja antes de quebrar a cabeça um pouco)
   </summary>
   <ul>
-    <li>Para acentos funcionarem, não se esqueça de configurar o <a href="https://developer.mozilla.org/en-US/docs/Glossary/character_encoding">charset</a> da sua página</li>
-    <li>Utilize <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors">classes CSS</a> para estilizar os dois parágrafos de diferentes maneiras</li>
-    <li>Coloque uma <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div">div</a> em volta da imagem de loading para centraliza-la utilizando a propriedade <code>text-align</code></li>
-    <li><a href="https://codesandbox.io/s/boss-hello-trojan-tz14z?file=/index.html">Link da resolução</a></li>  
+    <li>Você pode colar o código dos SVGs diretamente no seu código, como elementos HTML. Tome cuidado somente com os atributos dos mesmos, talvez no React eles tenham outro nome</li>
+    <li>Tente procurar no console por erros. Alguns clássicos: usar <code>class</code> no lugar de <code>className</code></li>; não colocar a prop <code>key</code> em elementos renderizados a partir de uma lista
+    <li>Usar <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">desestruturação</a> para passar props de objetos é uma maneira mais fácil e polui menos o código</li>
+    <li><a href="https://codesandbox.io/s/boss-free-ocean-v4qe9?file=/src/App.js">Link da resolução</a></li>  
   </ul>
 </details>

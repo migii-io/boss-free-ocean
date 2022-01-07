@@ -15,7 +15,7 @@
 
 ### Report (Relato)
 
-Nossa equipe <del>viu um vídeo de 10 minutos no Youtube</del> estudou sobre <a href="https://en.wikipedia.org/wiki/Non-fungible_token">NFTs</a> e percebemos que um <a href="https://opensea.io">marketplace de NFT</a> famoso possui algumas falhas que podemos explorar.
+Nossa equipe <del>viu um vídeo de 10 minutos no Youtube</del> estudou sobre <a href="https://en.wikipedia.org/wiki/Non-fungible_token">NFTs</a> e percebemos que um <a href="https://opensea.io">marketplace de NFT famoso</a> possui algumas falhas que podemos explorar.
 
 Sua missão é criar um <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> similar ao site famoso para testarmos a nossa hipótese.
 
